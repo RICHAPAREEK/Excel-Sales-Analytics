@@ -47,10 +47,9 @@ The project includes the following analytical reports:
 ### Customer Net Sales Performance (https://github.com/RICHAPAREEK/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)
 
 
-### Market Performance vs Target (
+### Market Performance vs Target ( https://github.com/RICHAPAREEK/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
-
-### Top 10 Products by YoY Growth
+### Top 10 Products by YoY Growth (
 
 ---
 
