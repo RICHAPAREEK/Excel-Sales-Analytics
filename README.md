@@ -49,7 +49,7 @@ The project includes the following analytical reports:
 
 ### Market Performance vs Target ( https://github.com/RICHAPAREEK/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)
 
-### Top 10 Products by YoY Growth (
+### Top 10 Products by YoY Growth ( https://github.com/RICHAPAREEK/Excel-Sales-Analytics/blob/main/Top%20products.pdf)
 
 ---
 
