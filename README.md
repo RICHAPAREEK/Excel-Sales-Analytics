@@ -44,10 +44,10 @@ A **Star Schema** data model was implemented to ensure accurate and scalable ana
 ## 📈 Reports 
 The project includes the following analytical reports:
 
-### Customer Net Sales Performance
+### Customer Net Sales Performance (https://github.com/RICHAPAREEK/Excel-Sales-Analytics/blob/main/Customer%20Net%20Sales%20Performance.pdf)
 
 
-### Market Performance vs Target
+### Market Performance vs Target (
 
 
 ### Top 10 Products by YoY Growth
